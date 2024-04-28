@@ -1,13 +1,23 @@
 # IceBound
 
-Welcome to IceBound, a game currently in development. This repository contains all the code and resources needed to run and test the game.
+IceBound est un jeu de plateforme simple conçu en Python, comportant une interface graphique conviviale et un menu interactif. Le joueur doit naviguer à travers deux niveaux, éviter des obstacles et récupérer des objets en les touchant avec son personnage.
 
-## Quick Start
-Clone the repository:
-```
-git clone https://github.com/Silentdawg/IceBound.git
-```
-Navigate to the project folder and run the game.
+## Fonctionnalités
 
-## Contributing
-Feel free to fork the project and submit pull requests.
+- Deux niveaux de jeu
+- Menu interactif pour la navigation
+- Collecte d'objets pour améliorer le score
+- Obstacles variés à éviter
+
+## Comment jouer
+
+1. **Cloner le dépôt :**
+   ```
+   git clone https://github.com/Silentdawg/IceBound.git
+   ```
+
+2. **Exécuter le jeu depuis le dossier du projet.**
+
+## Contributions
+
+Les contributions sont les bienvenues. N'hésitez pas à forker le dépôt et à proposer des pull requests.
