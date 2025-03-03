@@ -17,7 +17,3 @@ IceBound est un jeu de plateforme simple conçu en Python, comportant une interf
    ```
 
 2. **Exécuter le jeu depuis le dossier du projet.**
-
-## Contributions
-
-Les contributions sont les bienvenues. N'hésitez pas à forker le dépôt et à proposer des pull requests.
